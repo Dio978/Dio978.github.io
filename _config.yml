@@ -69,12 +69,12 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: ""
+sidebar-about-description: "欢迎有志之士与我合作"
 sidebar-avatar: img/headshotmaster_image_1746788668978.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
